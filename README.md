@@ -26,11 +26,12 @@ Both prediction accuracy and ranking metrics are analyzed.
 
 ```
 .
-|   MSML651_Big_Data_Analytics_Mid_Project_Report.pdf     # First draft
-|   pyspark-movie-recommendation.ipynb                    # Analysis and model file
-|   README.md                                             # Project description
-|   Recommendation System using PySpark.pptx              # Presentation with all information
-|   requirements.txt                                      # Dependencies
+|   MSML651_Big_Data_Analytics_Mid_Project_Report.pdf      # First draft
+|   MSML651_Final_Report.pdf                                                  # Final Report 
+|   pyspark-movie-recommendation.ipynb                                  # Analysis and model file
+|   README.md                                                                          # Project description
+|   Recommendation System using PySpark.pptx                      # Presentation with all information
+|   requirements.txt                                                                      # Dependencies
 |
 +---als_model                                             # Contains parameters for als_model
 |   +---bestModel                                         # Best model parameters
